@@ -1,6 +1,3 @@
-if "sucess" 
-    puts true
-else
-    puts false
+3.times do
+    puts "hello word!"
 end
-
